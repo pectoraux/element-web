@@ -25,7 +25,7 @@
     "default_country_code": "GB",
     "show_labs_settings": false,
     "features": {},
-    "default_federate": true,
+    "default_federate":true,
     "default_theme": "light",
     "room_directory": {
         "servers": ["matrix.org"]
